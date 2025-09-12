@@ -1,7 +1,31 @@
 reflektion.txt
-Svara på följande frågor i löpande text:
-Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
-Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
-Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+
 Vad innebär det att vara en systemutvecklare i ett team?
 Vad har varit mest intressant under kursens tre veckor?
+
+#Reflection
+	<br>
+		WHen i applyed for the cours i had little to no knowledge in backend development, i have some erlier experiense in frontend and webbdesign 
+		but not much else. i feel like i am getting an ide of how it works and im even more courius now then before. Its very exiting to learn something
+		new. I have heard the tearm DevOps before but never understood what it does or mean. It has been intressting to learn about and makes alot of seanse that
+		its a way of working with diffrent applications. If i would explain DevOps in very simple terms it would sound something like "DevOps is combining
+		to teams into one to create a smoother workflow. Instead of the developers(Dev) whriting a code and sending it off to operations(Ops) for them to run and send 
+		back with feedback to the developers.You are working in one team you can write smaller parts of code and test/run it imidietly wich create a faster
+		way of developing, So that you can release an app faster by having the core done and then add featchers. A bit like how instagram started out
+		ith just pictures and your FYP to then add the reels featcher with videos. You can add featchers to the app in a smoother way becouse you test it while
+		you are building it."
+	<br>
+	<br>
+		With alot of apps today we are aware of the fact that the information is "on the internet" but often havn't thought much more about it or how many apps
+		are actully usuing cloud. I know how we use like dropbox that we store the data somewhere else but the fact of it being on a diffrent computer never 
+		really crossed my mind. When we talk about cloud its usully just put as "it on the cloud" which makes it sound very abstract. So it's very intresting how
+		we can connect computers today to build so powerful machines that so many people can connect and save data there is impressive. It also makes sense that
+		we use cloud more and more becouse how much faster that can be then store the same amout of files just on your pc. Then its the factor off being able to share files
+		so simple and how you easly can switch machine and still have the same access as before. So you are no longer locked to your own machine. I do wonder if it
+		is as complicated as it sounds like.
+	<br>
+	<br>
+		Somthing cloud also makes possible to be building applications with alot of diffrent people. We can build teams with diffrent knowledge to focus on diffrent parts
+		of the prodject. To be working in teams will make life alot easier becouse you dont need to know every laguage on your own. That will also make it possible for us
+		to build more advanced prodject in easy ways. 
+	
