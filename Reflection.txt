@@ -1,10 +1,9 @@
 reflektion.txt
 
-Vad innebär det att vara en systemutvecklare i ett team?
 Vad har varit mest intressant under kursens tre veckor?
 
-#Reflection
-	<br>
+Reflection
+	
 		WHen i applyed for the cours i had little to no knowledge in backend development, i have some erlier experiense in frontend and webbdesign 
 		but not much else. i feel like i am getting an ide of how it works and im even more courius now then before. Its very exiting to learn something
 		new. I have heard the tearm DevOps before but never understood what it does or mean. It has been intressting to learn about and makes alot of seanse that
@@ -14,8 +13,8 @@ Vad har varit mest intressant under kursens tre veckor?
 		way of developing, So that you can release an app faster by having the core done and then add featchers. A bit like how instagram started out
 		ith just pictures and your FYP to then add the reels featcher with videos. You can add featchers to the app in a smoother way becouse you test it while
 		you are building it."
-	<br>
-	<br>
+	
+	
 		With alot of apps today we are aware of the fact that the information is "on the internet" but often havn't thought much more about it or how many apps
 		are actully usuing cloud. I know how we use like dropbox that we store the data somewhere else but the fact of it being on a diffrent computer never 
 		really crossed my mind. When we talk about cloud its usully just put as "it on the cloud" which makes it sound very abstract. So it's very intresting how
@@ -23,9 +22,14 @@ Vad har varit mest intressant under kursens tre veckor?
 		we use cloud more and more becouse how much faster that can be then store the same amout of files just on your pc. Then its the factor off being able to share files
 		so simple and how you easly can switch machine and still have the same access as before. So you are no longer locked to your own machine. I do wonder if it
 		is as complicated as it sounds like.
-	<br>
-	<br>
+	
+	
 		Somthing cloud also makes possible to be building applications with alot of diffrent people. We can build teams with diffrent knowledge to focus on diffrent parts
-		of the prodject. To be working in teams will make life alot easier becouse you dont need to know every laguage on your own. That will also make it possible for us
-		to build more advanced prodject in easy ways. 
+		of the prodject. To be working in teams will make life alot easier becouse you dont need to know every language on your own. That will also make it possible for us
+		to build more advanced prodject in an easier way.
+		
+
+		you said a flowing text but im gonna put this on its own anyway;
+		i have found the whole thing very intressting, i think it has to do with the little knowledge i had beforehand so i have leard so much. but if i pick something
+		it most have been the github action. i had alot of fun with that.
 	
