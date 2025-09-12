@@ -1,0 +1,7 @@
+reflektion.txt
+Svara på följande frågor i löpande text:
+Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+Vad innebär det att vara en systemutvecklare i ett team?
+Vad har varit mest intressant under kursens tre veckor?
