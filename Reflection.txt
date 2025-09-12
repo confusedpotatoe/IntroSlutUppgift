@@ -1,7 +1,5 @@
 reflektion.txt
 
-Vad har varit mest intressant under kursens tre veckor?
-
 Reflection
 	
 		WHen i applyed for the cours i had little to no knowledge in backend development, i have some erlier experiense in frontend and webbdesign 
