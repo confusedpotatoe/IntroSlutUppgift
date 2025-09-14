@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Visa meddelande
-      run: echo \"This is a small message about absolutly nothing. but it shows if the action works :)\"
+      run: echo \"This is a small message about absolutly nothing. but it shows if the action works.\"
