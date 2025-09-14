@@ -1,0 +1,46 @@
+frågor.txt
+
+1. what is the difference with IaaS, PaaS, Saas?
+	IaaS - Infrastructur as a System
+		You rent the hardware (server, storage, ect.)
+		You will controll the os, applications and data.
+	PaaS - Platform as a System
+		You rent the a full system with os, infrastructur.
+		You will controll the applications and the data.
+	SaaS - Software as a System
+		You will rent "everything" hardwear to application.
+		You only need to handle your own data.
+
+	so the biggest differences between these systems is how much you controll on your on, so Paas is good for ex.developing applications.
+	But Saas is ex. Google Drive is good when all you need is a platform for storages of data. While if you need a scalable platform ex. store
+	where you need to be able to adjust the server capacity, ex. for a sale or holiday where you going to be able to handle much more traffic then usual.
+	So the different system is good for diffrent things.
+
+2. what is Git used for?
+	Git is a controll system. You use this to command and direct a physical system. You can use this to create actions in a system, for example make visual studio
+	commit, push or clone code to github.
+
+3. what is Github?
+	Github is a cloudbased platform for codes and developing applications. You can do everything from storing your own code private to work on prodject togheter with people on
+	public codes. 
+
+4. What is a Information Systems?
+	The purpose of the information system is to ex. collecting, store, orgonize data. A simple exampel is store clubs collects data for the user and present personlized cupongs.
+
+5. what is the CIA-triad?
+	cia triad is a sucurity system. it is based of 3 different parts:
+		Confidentiality - keep information privet and keeping secure access so that only the right people can see it.
+			locking information so only some people can see/open it.
+		Integrity - to keep information safe from being alterd and stays correct.
+			When the lock is opend this will creat a stamp to show information has been seen/alterd.
+		Availability - making sure that people who needs to access the information can.
+			having the safe in a location that can still be reached if needed and to have a backup key if something happens to the main key.
+
+	the system is up to gdpr standard, to keep information safe and secure. But in a way so people who needs to access and alter it still can.
+
+6. What is Continuous Integration (CI)?
+	CI is a software that helps developers to mmerch small parts off code in an easy and afficent way. you puch a small peice of code into system(exp. GitHub) 
+	when that happens the CI will run, build and test the code and gives instant feedback if it suceeds or if it fails. This makes it easier to fixs errors fast
+	and by working this way you will avoid merching alot of codes with a tone of issues. this is very useful way of working specielly when working in teams. 
+
+	code adds -> code runs/tests -> feedback fail/success -> fix errors -> merge code
