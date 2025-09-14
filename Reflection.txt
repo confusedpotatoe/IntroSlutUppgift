@@ -31,3 +31,8 @@ Reflection
 		i have found the whole thing very intressting, i think it has to do with the little knowledge i had beforehand so i have leard so much. but if i pick something
 		it most have been the github action. i had alot of fun with that.
 	
+
+
+	github action:
+		i started with added the recomended code. wanted something more clear to happend so added a commend of notice to show the message as a notice when the code is run.
+			
